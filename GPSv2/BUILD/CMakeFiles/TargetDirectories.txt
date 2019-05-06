@@ -1,0 +1,3 @@
+/home/scar1et/Desktop/GPSv2/BUILD/CMakeFiles/rebuild_cache.dir
+/home/scar1et/Desktop/GPSv2/BUILD/CMakeFiles/testGPS.dir
+/home/scar1et/Desktop/GPSv2/BUILD/CMakeFiles/edit_cache.dir

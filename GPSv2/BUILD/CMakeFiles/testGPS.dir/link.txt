@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/testGPS.dir/testGPS.cpp.o  -o testGPS -Wl,-rpath,/usr/local/lib /usr/lib/x86_64-linux-gnu/libsqlite3.so /usr/lib/libserial.so /usr/local/lib/libGeographic.so.17.1.2 
